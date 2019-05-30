@@ -1,0 +1,58 @@
+[
+  {
+      "id": 1,
+      "name": "Iron Man",
+      "clicked": false,
+      "image":
+      "https://www.sideshow.com/storage/product-images/903100/iron-man-mark-iv-with-suit-up-gantry_marvel_gallery_5c4d0599cad17.jpg"
+  },
+  {
+      "id": 2,
+      "name": "Hulk",
+      "clicked": false,
+      "image":
+      "https://imgix.bustle.com/uploads/image/2019/1/9/23e81936-a28e-4ce3-a73a-64cbcd97c685-hulk-thor-ragnarok-1.jpg?w=1020&h=574&fit=crop&crop=faces&auto=format&q=70&dpr=2"
+  },
+  {
+      "id": 3,
+      "name": "Black Widow",
+      "clicked": false,
+      "image":
+      "https://mscomix.files.wordpress.com/2012/05/scarlett-johansson-to-star-in-black-widow-1337187110-4432.jpg"
+  },
+  {
+      "id": 4,
+      "name": "Cpt. Murca",
+      "clicked": false,
+      "image":
+      "https://www.lebanonews.net/En/wp-content/uploads/2019/03/174457/chris-evans-jokes-repeatedly-about-captain-americas-death-in-endgame.jpg"
+  },
+  {
+      "id": 5,
+      "name": "Thor",
+      "clicked": false,
+      "image":
+      "https://upload.wikimedia.org/wikipedia/en/thumb/3/3c/Chris_Hemsworth_as_Thor.jpg/220px-Chris_Hemsworth_as_Thor.jpg"
+  },
+  {
+      "id": 6,
+      "name": "Hawkeye",
+      "clicked": false,
+      "image":
+      "https://amp.businessinsider.com/images/56edd1c2dd089511278b45fd-750-562.jpg"
+  },
+  {
+      "id": 7,
+      "name": "Nick Fury",
+      "clicked": false,
+      "image":
+      "https://www.latimes.com/resizer/Kn4awF3bmnO8GF3t_JBXjR-gc04=/800x0/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/L2UEGOHJYBFXDFDIO7V7KZUNDE.jpg"
+  },
+  {
+      "id": 8,
+      "name": "Warmachine",
+      "clicked": false,
+      "image":
+      "https://hips.hearstapps.com/digitalspyuk.cdnds.net/18/14/1522871949-aif12.jpg?crop=0.905xw:0.611xh;0.0950xw,0.0385xh&resize=480:*"
+  }
+]
